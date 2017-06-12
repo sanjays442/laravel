@@ -1,0 +1,2 @@
+[12-Jun-2017 13:51:04 Etc/GMT] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/odbas8mp/public_html/laravel/public/index.php on line 50
+[12-Jun-2017 13:51:30 Etc/GMT] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/odbas8mp/public_html/laravel/public/index.php on line 50
